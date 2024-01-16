@@ -58,10 +58,61 @@ Stergere user (Delete User): This functionality allows administrators or users t
 Stergere review (Delete Review): Users or administrators can delete reviews or feedback that have been submitted about a doctor's services.
 
 
+## Exceptions
+
+Handler class
+EmailAlreadyUsedException
+DeletedBookException
+NoSuchElementException
+UserNotLoggedInException
+UnauthorizedUserException
+InvalidTokenException
+
+
+
+Example of beans for defining repositories to show @Repository annotation and the link with JPARepository
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/f9b27fbf-fabb-4dbd-b3c6-d575693eb2e9)
+
+
+
+
+### Unit tests for all REST endpoints and services
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/79d8b602-43e3-4426-a9e3-e42d04a751a3)
+
+
+
+### Present the @Valid annotation
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/e9c3dbe8-dc24-4d28-8566-c8dc7bb26730)
+
+
+
+### Present the validation constraints
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/5a1ddc7f-7073-4ea3-aa13-f751ff313eaf)
+
+
+
+
+
+
+
 When I tested my application, I utilized Postman, a popular API testing tool, and configured Swagger to enhance the overall testing and documentation experience. Postman allowed me to easily send HTTP requests to various endpoints, simulate different scenarios, and inspect the responses, ensuring that my application's APIs functioned correctly. Additionally, by configuring Swagger, I was able to provide a user-friendly and interactive API documentation interface, making it easier for developers and testers to understand and interact with the API endpoints, view request examples, and test various functionalities effectively
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/db594df0-39a5-491b-85d9-b4dd3ae014fa)
+
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/69a3b015-f558-4778-b6be-550840e48ab8)
+
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/0338ed00-c2e4-403e-a6bd-38580f57d3a5)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Entity diagram:
