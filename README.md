@@ -64,3 +64,7 @@ When I tested my application, I utilized Postman, a popular API testing tool, an
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/0338ed00-c2e4-403e-a6bd-38580f57d3a5)
 
 
+### Entity diagram:
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/80614490-aafa-4924-b6b2-8c004ba94be2)
+
+
