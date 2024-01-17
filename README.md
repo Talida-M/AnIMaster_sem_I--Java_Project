@@ -1,5 +1,10 @@
 # demo
 
+
+### Short Description:
+This project serves as the foundation for a comprehensive mental health application, offering users a seamless experience in creating and overseeing vital aspects of their mental well-being. Within this system, users can easily discover specialized healthcare professionals and schedule consultations, whether they prefer online or in-person appointments. Furthermore, users have the ability to provide feedback through reviews, and patients can maintain a personal journal with the option to selectively share specific entries with their chosen specialists, facilitating collaborative care and enhancing overall mental health support.
+
+
 ## Endpoints:
 (‼️ = main feature)
 ### Create
