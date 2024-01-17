@@ -71,26 +71,31 @@
 
 
 <details>
-<summary><b> ###Example of beans for defining repositories to show @Repository annotation and  with JPARepository </b></summary>
-![image](https://github.com/Talida-M/demoFinall/assets/75331740/f9b27fbf-fabb-4dbd-b3c6-d575693eb2e9)
+<summary>Example of beans for defining repositories to show @Repository annotation and  with JPARepository </b> </summary>
+ 
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/c7ea1484-a8e4-4a0c-9f8e-6feea5451ac1)
+
 </details>
 
 
 
 <details>
-<summary><b> ### Unit tests for all REST endpoints and services </b></summary>
+<summary><b> Unit tests for all REST endpoints and services </b> </summary>
 
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/79d8b602-43e3-4426-a9e3-e42d04a751a3)
+
 </details>
 
 
 <details>
  <summary>
   <b>
-   ### Present the @Valid annotation
+    Present the @Valid annotation
   </b>
  </summary>
+ 
  ![image](https://github.com/Talida-M/demoFinall/assets/75331740/e9c3dbe8-dc24-4d28-8566-c8dc7bb26730)
+ 
 </details>
 
 
@@ -99,13 +104,28 @@
 <details> 
  <summary>
   <b>
-    ### Present the validation constraints 
+    Present the validation constraints 
 
   </b>
  </summary>
+ 
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/5a1ddc7f-7073-4ea3-aa13-f751ff313eaf)
-</details>
 
+</details>
+<details>
+<summary>
+ <b>
+  Custom Exceptions
+ </b>
+</summary>
+
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/79e13c4a-9b75-4d41-89eb-71e24fb01417)
+
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/b418a141-1bd7-47cc-b0bf-b02f4f3f3f25)
+
+
+ 
+</details>
 
 
 
@@ -129,26 +149,26 @@ When I tested my application, I utilized Postman, a popular API testing tool, an
   </b>
  </summary>
 
- ![image](https://github.com/Talida-M/demoFinall/assets/75331740/69a3b015-f558-4778-b6be-550840e48ab8)
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/b4a31aa9-652f-483d-9f19-c7cfdf95bdf5)
 
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/0338ed00-c2e4-403e-a6bd-38580f57d3a5)
+
+
 </details>
 
 
 
 
+<details> 
+<summary> 
+<b>
+ Entity diagram:
+</b>
+</summary>
 
 
-
-
-
-
-
-
-
-
-
-### Entity diagram:
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/80614490-aafa-4924-b6b2-8c004ba94be2)
+
+</details> 
 
 
