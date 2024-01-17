@@ -118,8 +118,8 @@
   Custom Exceptions
  </b>
 </summary>
+![image](https://github.com/Talida-M/demoFinall/assets/75331740/a34335a7-cb9a-417f-8861-9d7d2fdc656d)
 
-![image](https://github.com/Talida-M/demoFinall/assets/75331740/79e13c4a-9b75-4d41-89eb-71e24fb01417)
 
 ![image](https://github.com/Talida-M/demoFinall/assets/75331740/b418a141-1bd7-47cc-b0bf-b02f4f3f3f25)
 
