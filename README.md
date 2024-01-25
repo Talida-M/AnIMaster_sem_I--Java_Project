@@ -145,7 +145,9 @@ When I tested my application, I utilized Postman, a popular API testing tool, an
    Postman Example
   </b>
  </summary>
+ 
  ![image](https://github.com/Talida-M/demoFinall/assets/75331740/db594df0-39a5-491b-85d9-b4dd3ae014fa)
+ 
 </details>
 
 <details>
